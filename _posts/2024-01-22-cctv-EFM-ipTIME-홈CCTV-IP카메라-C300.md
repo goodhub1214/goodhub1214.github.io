@@ -58,7 +58,7 @@ pin: true
 <div>
 
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=goodhub1214&pageKey=6778317625&traceid=V0-153&itemId=15932873252&vendorItemId=83139854855" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=goodhub1214&pageKey=6778317625&traceid=V0-153&itemId=15932873252&vendorItemId=83139854855" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2022/09/16/11/2/ee2b2b11-3b2a-4ac8-b9d3-442b23e07fd5.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -78,7 +78,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 554개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=goodhub1214&pageKey=6778317625&traceid=V0-153&itemId=15932873252&vendorItemId=83139854855" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=goodhub1214&pageKey=6778317625&traceid=V0-153&itemId=15932873252&vendorItemId=83139854855" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -87,7 +87,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=goodhub1214&pageKey=7675548875&traceid=V0-153&itemId=20487400665&vendorItemId=76697702968" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=goodhub1214&pageKey=7675548875&traceid=V0-153&itemId=20487400665&vendorItemId=76697702968" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4595388296895330-3f9e1593-3482-4844-bd88-282920ca5d76.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -107,7 +107,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 10577개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=goodhub1214&pageKey=7675548875&traceid=V0-153&itemId=20487400665&vendorItemId=76697702968" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=goodhub1214&pageKey=7675548875&traceid=V0-153&itemId=20487400665&vendorItemId=76697702968" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -116,7 +116,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=goodhub1214&pageKey=1257342889&traceid=V0-153&itemId=2258105672&vendorItemId=70255414258" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=goodhub1214&pageKey=1257342889&traceid=V0-153&itemId=2258105672&vendorItemId=70255414258" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/7461546238788827-b4fceb16-2611-4abf-bf9c-40454a474fd8.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -136,7 +136,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 20935개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=goodhub1214&pageKey=1257342889&traceid=V0-153&itemId=2258105672&vendorItemId=70255414258" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=goodhub1214&pageKey=1257342889&traceid=V0-153&itemId=2258105672&vendorItemId=70255414258" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -145,7 +145,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=goodhub1214&pageKey=7660655062&traceid=V0-153&itemId=20408322676&vendorItemId=78701985939" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=goodhub1214&pageKey=7660655062&traceid=V0-153&itemId=20408322676&vendorItemId=78701985939" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2548100823894456-7bf7255c-c36c-4830-88a0-6a4bc1925da0.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -165,7 +165,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 1615개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=goodhub1214&pageKey=7660655062&traceid=V0-153&itemId=20408322676&vendorItemId=78701985939" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=goodhub1214&pageKey=7660655062&traceid=V0-153&itemId=20408322676&vendorItemId=78701985939" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -174,7 +174,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=goodhub1214&pageKey=7823288978&traceid=V0-153&itemId=21256232661&vendorItemId=88320605220" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=goodhub1214&pageKey=7823288978&traceid=V0-153&itemId=21256232661&vendorItemId=88320605220" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/a923/e3f828feca774aa18a1bfe1666f88f9d3843199b609fa46e09404e603486.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -194,7 +194,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 12개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=goodhub1214&pageKey=7823288978&traceid=V0-153&itemId=21256232661&vendorItemId=88320605220" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=goodhub1214&pageKey=7823288978&traceid=V0-153&itemId=21256232661&vendorItemId=88320605220" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -203,7 +203,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=goodhub1214&pageKey=6956486830&traceid=V0-153&itemId=16919601572&vendorItemId=85730546046" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=goodhub1214&pageKey=6956486830&traceid=V0-153&itemId=16919601572&vendorItemId=85730546046" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/3880/12f21254c48f71c17aa93b96f7571c6037573ade7890417f871973237f3a.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -223,7 +223,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 38개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=goodhub1214&pageKey=6956486830&traceid=V0-153&itemId=16919601572&vendorItemId=85730546046" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=goodhub1214&pageKey=6956486830&traceid=V0-153&itemId=16919601572&vendorItemId=85730546046" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -232,7 +232,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=goodhub1214&pageKey=6802019069&traceid=V0-153&itemId=16059429971&vendorItemId=83262760675" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=goodhub1214&pageKey=6802019069&traceid=V0-153&itemId=16059429971&vendorItemId=83262760675" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/654891304618496-45642acf-d943-458b-bda5-931ed89487c2.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -252,7 +252,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 820개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=goodhub1214&pageKey=6802019069&traceid=V0-153&itemId=16059429971&vendorItemId=83262760675" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=goodhub1214&pageKey=6802019069&traceid=V0-153&itemId=16059429971&vendorItemId=83262760675" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -261,7 +261,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=goodhub1214&pageKey=5690404327&traceid=V0-153&itemId=9420913591&vendorItemId=76705859951" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=goodhub1214&pageKey=5690404327&traceid=V0-153&itemId=9420913591&vendorItemId=76705859951" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/8499793951468986-b27354af-86d4-4735-8f63-0a292105f6d5.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -281,7 +281,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 693개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=goodhub1214&pageKey=5690404327&traceid=V0-153&itemId=9420913591&vendorItemId=76705859951" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=goodhub1214&pageKey=5690404327&traceid=V0-153&itemId=9420913591&vendorItemId=76705859951" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -290,7 +290,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=goodhub1214&pageKey=6057643772&traceid=V0-153&itemId=11125754454&vendorItemId=5296667511" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=goodhub1214&pageKey=6057643772&traceid=V0-153&itemId=11125754454&vendorItemId=5296667511" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/aec6/b4392033d501c69dfe0ade77cb1db430707637d3ee1de2d5a8b9a876785a.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -310,7 +310,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 98개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=goodhub1214&pageKey=6057643772&traceid=V0-153&itemId=11125754454&vendorItemId=5296667511" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=goodhub1214&pageKey=6057643772&traceid=V0-153&itemId=11125754454&vendorItemId=5296667511" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -319,7 +319,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=goodhub1214&pageKey=7637743705&traceid=V0-153&itemId=20285455686&vendorItemId=87250637614" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=goodhub1214&pageKey=7637743705&traceid=V0-153&itemId=20285455686&vendorItemId=87250637614" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/1128/de48eefaa824891180599f442020dba55c252f8c48a1a74f6ffbe2dda4eb.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -339,7 +339,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 58개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=goodhub1214&pageKey=7637743705&traceid=V0-153&itemId=20285455686&vendorItemId=87250637614" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=goodhub1214&pageKey=7637743705&traceid=V0-153&itemId=20285455686&vendorItemId=87250637614" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
